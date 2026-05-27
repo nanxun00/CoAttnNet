@@ -1,8 +1,8 @@
-# CoAttnNet
+# SymPhase
 
 Code repository for the paper:
 
-**G CoAttnNet: Collaborative Attention Network for Robust Phase Picking**
+**Symmetry-Aware Collaborative Attention Network for Robust Weak Seismic Phase Picking**
 
 ## Overview
 
